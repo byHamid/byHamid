@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @byHamid
-- 👀 I’m interested in Computer
+- 👀 I’m interested in Something
 - 🌱 I’m currently learning Html and Css
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email : hamisgen24@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: Hitler 🤫😈
 - ⚡ Fun fact: I love playing Games
 
 <!---
