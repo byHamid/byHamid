@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @byHamid
 - 👀 I’m interested in Something
-- 🌱 I’m currently learning Html and Css
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email : hamisgen24@gmail.com
 - 😄 Pronouns: *idk what is pronouns*
