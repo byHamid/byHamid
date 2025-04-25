@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email : hamisgen24@gmail.com
 - 😄 Pronouns: 
-- ⚡ Fun fact: I love playing Games
+- ⚡ Fun fact: I shared a repistory that u can get Undertale for FREE
 
 <!---
 byHamid/byHamid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
