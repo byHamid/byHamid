@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email : hamisgen24@gmail.com
-- 😄 Fun fact 1: My Best friends are Kenan, Banu, Amin, Tamerlan.
+- 😄 Fun fact 1: My Best Friends are Kenan, Banu, Amin, Tamerlan.
 - ⚡ Fun fact 2: I shared a repistory that u can get Undertale for FREE
 
 <!---
