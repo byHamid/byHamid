@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @byHamid
 - 👀 I’m interested in Something
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email : hamisgen24@gmail.com
 - 😄 Fun fact 1: My Best Friends are Kenan, Banu, Amin, Tamerlan.
